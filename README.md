@@ -26,6 +26,28 @@ Freeplay / RPG / Quest-Based
 
 *    Lizzard man (Argonian)
 
+### Suggestions For Race:
+
+*    ent
+*    were-person:
+	*wolf (sneak and crit)
+	*boar (defence)
+	*bear (damage)
+*    high elf
+*    human types:
+	*imperial
+	*republcan
+	*norse
+	*surd
+	*ester
+	*wust
+*    playable undead types:
+	*zombie (melee)
+	*skeleton (ranged)
+	*mummy (magic)
+*    birdmen
+*    half-phoenix
+
 ### Available Classes:
 
 *    warrior/fighter
@@ -40,7 +62,75 @@ Freeplay / RPG / Quest-Based
 *    witch
 *    necromancer
 
-###   Weapons
+### Suggested Class:
+
+*    bard - buffer
+
+### Suggested Factions/Guilds:
+
+*    Cinebra Empire
+*    Kaz-Dular Republic
+*    Smugglers Guild
+*    Mercenary Guild
+*    Bandits/Raiders
+*    Pirates
+
+### Suggested Religions:
+
+*    Kron - strength
+*    Maligna - evil
+*    Sarai - good
+*    Circe - wisdom
+*    Hermes - speed
+*    Calypso - magic
+
+### Suggested Languages:
+
+*    Draconic
+*    Orcish
+*    Sign
+*    Common
+*    Gobbledegook (Goblin)
+*    Dwarvish
+*    Gnomic
+*    Elven
+*    Birdi
+*    Fishi
+*    Beast
+*    Undead
+
+### Suggested Pets:
+
+*    wolf
+*    dragon
+*    rat
+*    skeleton
+*    demon
+*    cat
+*    boar
+*    bear
+
+### Suggested Statistics:
+
+*    Strength
+*    Intelligence
+*    Dexterity
+*    Wisdom
+*    Constitution
+*    Endurance
+*    Charisma
+*    Communication
+*    Reflex
+*    Willpower
+*    Fortification
+*    Armor class
+*    Attack speed
+*    Casting speed
+*    Running speed
+*    Flying speed
+*    Reload speed
+
+### Weapons
 
 Name | Type | Strength:Agility:Defense:Magic | minLvL:Price
 Dagger
@@ -52,6 +142,11 @@ Bows
 Crossbows
 Staffs
 Warhammer
+
+### Suggested Weapon:
+
+Pike
+Throwing Knife
 
     Tier A
 
